@@ -1,3 +1,7 @@
+## 📊 SOC Dashboard Preview
+
+![SOC Security Monitoring Dashboard](evidence/05-soc-security-dashboard-landscape.png)
+
 # 🛡️ Home SOC Lab – Windows Security Monitoring with Splunk
 
 **A hands-on Security Operations Center (SOC) project demonstrating Windows log monitoring, authentication threat detection, SIEM alerting, and incident investigation using Splunk Enterprise.**
